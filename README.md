@@ -1,4 +1,4 @@
-This folder contains code for the NeurIPS 2021 submission "Exploring the geometry and topology of neural network loss landscapes".
+This folder contains code for the paper "Exploring the geometry and topology of neural network loss landscapes", published at the 20th Symposium on Intelligent Data Analysis (IDA) 2022
 
 ## Origin of the code
 Code has been adapted from the following GitHub repositories made available online through the MIT license:
